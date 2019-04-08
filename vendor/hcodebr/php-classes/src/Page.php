@@ -11,7 +11,7 @@ class Page {
 	private $defaults = [
 		"data"=>[]
 
-	]
+	];
 
 	public function __construct($opts = array()){
 
